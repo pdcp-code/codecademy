@@ -1,2 +1,3 @@
-# codecademy
-Codecademy
+# Codecademy
+
+My exercises from Codecademy.
